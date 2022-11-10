@@ -14,7 +14,9 @@ The significance of this project is:
 ## Built With
 Several technologies have been used in the design and implementation of this website. 
 The technologies are:
-- ReactJS
+-Javascript
+ - ReactJS
+- CSS
 
 
 ## Getting Started
